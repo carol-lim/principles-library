@@ -4,7 +4,7 @@ A modern, interactive React application for organizing and learning about produc
 
 ![Principles Library](https://img.shields.io/badge/React-18.2.0-blue) ![License](https://img.shields.io/badge/License-MIT-green) ![Responsive](https://img.shields.io/badge/Design-Responsive-orange)
 
-## ✨ Features
+## Features
 
 - **Interactive Flip Cards**: Click to flip between principle names and definitions
 - **Category Organization**: 5 color-coded categories for easy navigation
@@ -14,15 +14,15 @@ A modern, interactive React application for organizing and learning about produc
 - **Local Storage**: Data persists between sessions
 - **Test-Driven Development**: Includes comprehensive test suite
 
-## 🚀 Live Demo
+## Live Demo
 
-[View Live Site](https://yourusername.github.io/principles-library)
+[View Live Site](https://carol-lim.github.io/principles-library)
 
 ## 📸 Screenshots
 
 ![App Screenshot](/public/screenshot.png)
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ A modern, interactive React application for organizing and learning about produc
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/principles-library.git
+git clone https://github.com/carol-lim/principles-library.git
 cd principles-library
 ```
 
@@ -66,7 +66,7 @@ npm test -- --coverage
 npm test -- --watch
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 principles-library/
@@ -89,7 +89,7 @@ principles-library/
 └── README.md
 ```
 
-## 🎨 Categories
+## Categories
 
 The principles are organized into 5 color-coded categories:
 
@@ -101,7 +101,7 @@ The principles are organized into 5 color-coded categories:
 | **Emotional Mastery & Mindset** | Brownish Red | Mental frameworks and self-awareness     |
 | **Strategy & Social Dynamics**  | Golden Brown | Interpersonal and strategic thinking     |
 
-## 📝 Usage
+## Usage
 
 ### Adding a New Principle
 
@@ -122,7 +122,7 @@ The principles are organized into 5 color-coded categories:
 - **Delete**: Remove principles you no longer need
 - **Organize**: Principles are automatically sorted by category
 
-## 🚀 Deployment
+## Deployment
 
 ### Deploy to GitHub Pages
 
@@ -210,7 +210,7 @@ npm test -- --verbose
 npm test -- -u
 ```
 
-## 🎯 Core Principles Included
+## Core Principles Included
 
 The app comes pre-loaded with 40 powerful principles including:
 
@@ -220,7 +220,7 @@ The app comes pre-loaded with 40 powerful principles including:
 - **Game Theory** - Find win-win solutions
 - **Atomic Habits** - Small changes, big results
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -230,11 +230,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Inspired by various productivity methodologies and personal development frameworks
 - Built with React.js and modern CSS
