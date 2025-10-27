@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/principles-library/static/css/main.c756cc4f.css",
+    "main.js": "/principles-library/static/js/main.837959b8.js",
+    "static/js/453.a9a00f16.chunk.js": "/principles-library/static/js/453.a9a00f16.chunk.js",
+    "index.html": "/principles-library/index.html",
+    "main.c756cc4f.css.map": "/principles-library/static/css/main.c756cc4f.css.map",
+    "main.837959b8.js.map": "/principles-library/static/js/main.837959b8.js.map",
+    "453.a9a00f16.chunk.js.map": "/principles-library/static/js/453.a9a00f16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c756cc4f.css",
+    "static/js/main.837959b8.js"
+  ]
+}
