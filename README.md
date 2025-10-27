@@ -18,9 +18,10 @@ A modern, interactive React application for organizing and learning about produc
 
 [View Live Site](https://carol-lim.github.io/principles-library)
 
-## 📸 Screenshots
+## Screenshots
 
 ![App Screenshot](/public/screenshot.png)
+![App Screenshot](/public/screenshot-mobile.png)
 
 ## Installation & Setup
 
@@ -164,7 +165,7 @@ npm install -g vercel
 vercel
 ```
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -195,7 +196,7 @@ React.useEffect(() => {
 }, [principles]);
 ```
 
-## 🧪 Testing
+## Testing
 
 The project includes Jest and React Testing Library for comprehensive testing:
 
